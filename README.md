@@ -1,5 +1,5 @@
 # kr_burger
-#This resource was created as a free interactive mining script for ESX servers.
+#This resource was created as a free interactive burgerjob script for ESX servers.
 
 **Featuresd**
 - *Optimized 0.00 on idle*
